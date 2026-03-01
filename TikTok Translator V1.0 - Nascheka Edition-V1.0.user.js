@@ -4,6 +4,7 @@
 // @version      V1.0
 // @description  Optimisation de l'interopérabilité linguistique en temps réel sur l'interface Web de TikTok /// Optimization of real-time linguistic interoperability on TikTok’s web interface.
 // @match        https://www.tiktok.com/*
+// @author       Nascheka
 // @grant        GM_xmlhttpRequest
 // @connect      translate.googleapis.com
 // ==/UserScript==
