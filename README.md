@@ -1,7 +1,10 @@
 # web-live-translation-overlay
+
 Client-side userscript providing a real-time translation overlay for live chat interfaces.
 
-Project overview
+---
+
+## Project overview
 
 This project is a client-side userscript designed to improve real-time multilingual interoperability on live streaming web interfaces.
 
@@ -11,74 +14,111 @@ The script operates entirely on the client side. It does not automate actions, d
 
 Its primary goal is accessibility, comprehension, and user experience improvement.
 
-FAQ 
+---
 
-❓ What does this script do?
+## FAQ
 
+❓ **What does this script do?**  
 It provides a real-time translation overlay for live chat messages on web-based livestream pages, helping users understand multilingual conversations.
 
-❓ Does this script automate any actions?
-
-No.
+❓ **Does this script automate any actions?**  
+No.  
 The script does not send messages, click buttons automatically, or perform any form of interaction automation.
 
-❓ Does it interact with private or internal APIs?
-
-No.
+❓ **Does it interact with private or internal APIs?**  
+No.  
 It relies only on publicly available page elements and standard browser APIs.
 
-❓ Does it collect or store user data?
-
-No.
+❓ **Does it collect or store user data?**  
+No.  
 The script does not collect, store, log, or transmit any personal or chat data.
 
-❓ Is this a bot?
-
-No.
+❓ **Is this a bot?**  
+No.  
 This is not a bot. It is a client-side accessibility overlay intended to assist human users.
 
-❓ Is this project affiliated with any streaming platform?
-
-No.
+❓ **Is this project affiliated with any streaming platform?**  
+No.  
 This project is independent and is not affiliated with, endorsed by, or connected to any streaming platform.
 
-❓ Why was this project created?
-
+❓ **Why was this project created?**  
 To improve accessibility and comprehension in multilingual live chat environments, particularly for users who follow international creators.
 
-***************************************************************************************************************************************
+---
 
-🇫🇷 Version française 
+## 📦 Installation
 
-Présentation du projet
+### Installation (Simple)
+
+This project is provided as a browser userscript.
+
+#### Requirements
+- A modern desktop browser (Chrome, Firefox, Edge)
+- A userscript manager extension:
+  - Tampermonkey
+  - Violentmonkey
+  - Greasemonkey
+
+#### Steps
+1. Install a userscript manager extension for your browser.
+2. Open the `.user.js` file from this repository.
+3. The userscript manager will prompt you to install the script.
+4. Confirm the installation.
+5. Reload the live streaming page.
+
+Once installed, the translation overlay will run automatically on supported pages.
+
+---
+
+## 🇫🇷 Version française
+
+### Présentation du projet
 
 Ce projet est un userscript côté navigateur conçu pour améliorer l’interopérabilité linguistique en temps réel sur les interfaces Web de diffusion en direct.
 
 Il ajoute une surcouche visuelle non intrusive permettant de traduire les messages du chat en direct directement dans le navigateur, afin de faciliter la compréhension lorsque le créateur et le spectateur ne parlent pas la même langue.
 
-Le script fonctionne exclusivement côté client. Il n’automatise aucune action, ne modifie aucun service backend et n’interagit pas avec les API de la plateforme au-delà du rendu standard de la page.
+Le script fonctionne exclusivement côté client. Il n’automatise aucune action, ne modifie aucun service backend et n’interagit avec aucune API de plateforme au-delà du rendu standard de la page.
 
 Son objectif principal est l’accessibilité, la compréhension et l’amélioration de l’expérience utilisateur.
 
-FAQ 
+---
 
-❓ Que fait ce script ?
+### FAQ
 
+❓ **Que fait ce script ?**  
 Il ajoute une surcouche de traduction en temps réel pour les messages de chat sur les interfaces de live, afin d’améliorer la compréhension des échanges multilingues.
 
-❓ Automatise-t-il des actions ?
-
-Non.
+❓ **Automatise-t-il des actions ?**  
+Non.  
 Aucune action n’est automatisée (envoi de messages, clics, interactions).
 
-❓ Collecte-t-il des données ?
-
-Non.
+❓ **Collecte-t-il des données ?**  
+Non.  
 Aucune donnée personnelle ou de chat n’est collectée ou stockée.
 
-❓ Est-ce un bot ?
-Non.
+❓ **Est-ce un bot ?**  
+Non.  
 Il s’agit d’un outil d’assistance côté navigateur, destiné à un usage humain.
 
-Non.
-Il s’agit d’un outil d’assistance côté navigateur, destiné à un usage humain.
+---
+
+### Installation (Version française)
+
+Ce projet est fourni sous forme de userscript pour navigateur.
+
+#### Prérequis
+- Un navigateur de bureau récent (Chrome, Firefox, Edge)
+- Une extension de gestion de userscripts :
+  - Tampermonkey
+  - Violentmonkey
+  - Greasemonkey
+
+#### Étapes
+1. Installe une extension de gestion de userscripts.
+2. Ouvre le fichier `.user.js` présent dans ce dépôt.
+3. L’extension proposera automatiquement l’installation du script.
+4. Confirme l’installation.
+5. Recharge la page du live.
+
+Une fois installé, l’overlay de traduction fonctionne automatiquement sur les pages compatibles.
