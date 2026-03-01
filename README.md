@@ -11,8 +11,8 @@ The script operates entirely on the client side. It does not automate actions, d
 
 Its primary goal is accessibility, comprehension, and user experience improvement.
 
-❓ FAQ OFFICIELLE — À METTRE DANS README.md
-🇬🇧 FAQ (Recommended)
+FAQ 
+
 ❓ What does this script do?
 
 It provides a real-time translation overlay for live chat messages on web-based livestream pages, helping users understand multilingual conversations.
@@ -60,7 +60,8 @@ Le script fonctionne exclusivement côté client. Il n’automatise aucune actio
 
 Son objectif principal est l’accessibilité, la compréhension et l’amélioration de l’expérience utilisateur.
 
-🇫🇷 FAQ — Version française (optionnelle)
+FAQ 
+
 ❓ Que fait ce script ?
 
 Il ajoute une surcouche de traduction en temps réel pour les messages de chat sur les interfaces de live, afin d’améliorer la compréhension des échanges multilingues.
